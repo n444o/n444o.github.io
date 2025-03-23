@@ -5,7 +5,7 @@ Maintainer: Adrian Castro, Pylix
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: app.enmity, mod.vendetta, app.unbound
-Filename: debs/app.pyoncord_0.8.1_iphoneos-arm64.deb
+Filename: ./debs/app.pyoncord_0.8.1_iphoneos-arm64.deb
 Size: 28708
 MD5sum: ab975fb648404f9662892e4b90c63787
 SHA1: 30fe69109ca356f63e78305eac52b1e593ee61f2
@@ -22,7 +22,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 138
 Depends: mobilesubstrate
-Filename: debs/twitdate_0.0.1-2.deb
+Filename: ./debs/twitdate_0.0.1-2.deb
 Size: 8206
 MD5sum: f47d1e3c1e136e3bcbb5b72e630bb0fd
 SHA1: 7576cd3249f72fcb19c695220587c8bd1bc7d62d
@@ -43,7 +43,7 @@ Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
-Filename: debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
 Size: 8692250
 MD5sum: 64deb0bf6deee1055a00997088a8392e
 SHA1: 1a9424e145f80abf98c6512fb0eaab21fe3e794a
@@ -59,7 +59,7 @@ Architecture: iphoneos-arm64
 Maintainer: MrDeNsor
 Installed-Size: 1308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/IGFormatv1.72.deb
+Filename: ./debs/IGFormatv1.72.deb
 Size: 210440
 MD5sum: 33f968408935aa73afa6ab4a3f6fc70e
 SHA1: 5075d2275465f1c43037b4dc269d67e6f60055f6
@@ -78,7 +78,7 @@ Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 560
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/TWIGalaxy1.2.deb
+Filename: ./debs/TWIGalaxy1.2.deb
 Size: 82316
 MD5sum: f6dfaebf9263d22352ca5a4ff480df1a
 SHA1: 89383b0607025d1585735618c7bce4517b1e1993
@@ -97,7 +97,7 @@ Architecture: iphoneos-arm64
 Maintainer: Eevee
 Installed-Size: 1620
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Filename: debs/com.eevee.spotify_5.9_iphoneos-arm64.deb
+Filename: ./debs/com.eevee.spotify_5.9_iphoneos-arm64.deb
 Size: 404308
 MD5sum: 5f8f9aedcdc7acda6ad8108686fc01a5
 SHA1: f5bbd50b2db1c11929c8982e31feb866010313c3
@@ -113,7 +113,7 @@ Architecture: iphoneos-arm64
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
-Filename: debs/com.f0u4d.watusitools_2.5.10_iphoneos-arm64.deb
+Filename: ./debs/com.f0u4d.watusitools_2.5.10_iphoneos-arm64.deb
 Size: 4637236
 MD5sum: 587a16dd8f57afde9715862b9d647299
 SHA1: 62821ca0bbea3ea23e384a1a7769dba3b8b0bb93
@@ -131,7 +131,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 10956
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff
-Filename: debs/com.fouadraheb.regram_1.0~b23_iphoneos-arm64.deb
+Filename: ./debs/com.fouadraheb.regram_1.0~b23_iphoneos-arm64.deb
 Size: 3026722
 MD5sum: 52726262f94c176e30aa0620d3733bf7
 SHA1: b91a0bb54790a84a4400edb0026638a7e5dc99d2
@@ -152,7 +152,7 @@ Installed-Size: 128
 Depends: mobilesubstrate
 Conflicts: com.ichitaso.twinkleadkiller
 Replaces: com.ichitaso.twinklepathcer
-Filename: debs/com.ichitaso.twinklepathcer_1.0.6_iphoneos-arm64.deb
+Filename: ./debs/com.ichitaso.twinklepathcer_1.0.6_iphoneos-arm64.deb
 Size: 22700
 MD5sum: fbf237706699d23db59466659dc0932f
 SHA1: 4d67e54fe2fb07dfb398a29f4fee992301af98e5
@@ -171,7 +171,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 12212
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: debs/wolf_2.1.deb
+Filename: ./debs/wolf_2.1.deb
 Size: 2848920
 MD5sum: 88c17aee430ab5283ff4afac1b5b5c39
 SHA1: faadef3caf0ac9c77e940ca0ec58197c1a035d62
@@ -194,7 +194,7 @@ Architecture: iphoneos-arm
 Maintainer: level3tjg
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.level3tjg.twittersquareavatars_0.0.3_iphoneos-arm.deb
+Filename: ./debs/com.level3tjg.twittersquareavatars_0.0.3_iphoneos-arm.deb
 Size: 3590
 MD5sum: 97ccf429d9dfb70713533619b890a1bd
 SHA1: 80b80463a0e9c8bab3bbdbe14de7c761cd2b5391
@@ -211,7 +211,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/com.netskao.twitternoads_1.1-2_iphoneos-arm64.deb
+Filename: ./debs/com.netskao.twitternoads_1.1-2_iphoneos-arm64.deb
 Size: 2636
 MD5sum: 7d0fb366eb6f1b0baab2c7bdaef6478f
 SHA1: a9696e4ce5147e73dcc2361f7c57fd72e4779ad2
@@ -228,7 +228,7 @@ Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: debs/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
+Filename: ./debs/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
 Size: 5472
 MD5sum: 3e7dcd1101f593766d8d33a4a4b97b3e
 SHA1: 41ede37b52b577cd668a521369d86759fea0169f
@@ -247,7 +247,7 @@ Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: debs/com.p2kdev.twitternoads_1.2.5_iphoneos-arm64.deb
+Filename: ./debs/com.p2kdev.twitternoads_1.2.5_iphoneos-arm64.deb
 Size: 7568
 MD5sum: 55403ae3516c76e650721df250c91836
 SHA1: 28eed7dc1f3d76e21ffcf0c51bbfef3507689659
@@ -265,7 +265,7 @@ Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: objc_msgSend
 Installed-Size: 264
-Filename: debs/dev.objcmsgsend.theta_1.4_iphoneos-arm64.deb
+Filename: ./debs/dev.objcmsgsend.theta_1.4_iphoneos-arm64.deb
 Size: 57644
 MD5sum: 863509285367b7a19bbaea1fc0027765
 SHA1: bea53685c47389d38dd1f74b4837c6a7b799153f
@@ -281,7 +281,7 @@ Architecture: iphoneos-arm64
 Maintainer: Rocket App <support@getrocketapp.io>
 Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: debs/me.alfhaily.rocket_3.8.32_iphoneos-arm64.deb
+Filename: ./debs/me.alfhaily.rocket_3.8.32_iphoneos-arm64.deb
 Size: 1440998
 MD5sum: 48ec1915f7cacdd9b49e6e9cfa1d1d40
 SHA1: 2d8bf1eb42c78114011098ab03232482236febed
@@ -300,7 +300,7 @@ Version: 1.29.0
 Architecture: iphoneos-arm64
 Maintainer: eevee
 Installed-Size: 10116
-Filename: debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
 Size: 1446130
 MD5sum: 78e5915754b1068b212890ffe907dfd0
 SHA1: 6d0a4904f961407b2fbc7153bd9fae3dda27b8db
@@ -318,7 +318,7 @@ Maintainer: CyPwn
 Installed-Size: 9880
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.2)
-Filename: debs/xyz.cypwn.crackfouad_2.0_iphoneos-arm.deb
+Filename: ./debs/xyz.cypwn.crackfouad_2.0_iphoneos-arm.deb
 Size: 2945018
 MD5sum: cd19e4d1bd76be91909fffb7ca575785
 SHA1: 5b172f05d8c114ec20170498021c6c65340bc2d5
